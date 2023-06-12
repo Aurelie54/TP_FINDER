@@ -5,7 +5,7 @@ List<Bachelor> generateFakeBachelors() {
   final List<String> maleFirstNames = ['John', 'Robert', 'Michael', 'William', 'David', 'Joseph'];
   final List<String> femaleFirstNames = ['Mary', 'Jennifer', 'Linda', 'Patricia', 'Elizabeth', 'Susan'];
   final List<String> lastNames = ['Smith', 'Johnson', 'Brown', 'Taylor', 'Davis', 'Wilson'];
-  final List<String> avatars = ['._man-1.png', '._man-2.png', '._man-3.png', '._man-4.png'];
+  final List<String> avatars = ['man-1.png', 'woman-1.png', 'man-2.png', 'woman-2.png'];
 
   final faker = Faker();
 
